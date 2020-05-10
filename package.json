@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "graphql-basics",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,9 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "graphql-yoga": "^1.14.10",
-    "nodemon": "^2.0.3",
-    "uuid": "^8.0.0"
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
   }
 }
